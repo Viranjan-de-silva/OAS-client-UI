@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OAS-client-UI/static/css/main.c91df3d2.css",
+    "main.js": "/OAS-client-UI/static/js/main.2c4d6fc0.js",
+    "static/js/453.419a5d54.chunk.js": "/OAS-client-UI/static/js/453.419a5d54.chunk.js",
+    "index.html": "/OAS-client-UI/index.html",
+    "main.c91df3d2.css.map": "/OAS-client-UI/static/css/main.c91df3d2.css.map",
+    "main.2c4d6fc0.js.map": "/OAS-client-UI/static/js/main.2c4d6fc0.js.map",
+    "453.419a5d54.chunk.js.map": "/OAS-client-UI/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c91df3d2.css",
+    "static/js/main.2c4d6fc0.js"
+  ]
+}
